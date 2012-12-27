@@ -6,8 +6,7 @@ Gem::Specification.new do |s|
   s.authors     = ['Feng Zhichao']
   s.email       = ['flankerfc@gmail.com']
   s.homepage    = 'http://www.chaojiwudi.com'
-  s.summary     = %q{dfghjkl}
-  s.description = %q{dfghjkl}
+  s.summary     = %q{a bundle install wrapper which uses `gem install` to install the missing gems}
 
   s.required_ruby_version     = '>= 1.8.7'
   s.required_rubygems_version = '>= 1.3.6'
